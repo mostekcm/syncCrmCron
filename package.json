@@ -1,0 +1,9 @@
+{
+  "name": "synccrmcron",
+  "version": "1.0.0",
+  "description": "Sync HubSpot CRM to BFD Admin",
+  "main": "index.js",
+  "repository": "git@github.com:/mostekcm/syncCrmCron",
+  "author": "mostekcm",
+  "license": "MIT"
+}
